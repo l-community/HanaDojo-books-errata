@@ -1,1 +1,3 @@
-# HanaDojo-books-errata
+# Hana道場書籍正誤表まとめ
+
+## 対象書籍
